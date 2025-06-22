@@ -11,9 +11,9 @@ Displays regional average delivery times (in hours)
 
 Uses color-coded bars to reflect performance:
 
-Green for < 24 hours
-Yellow for 24–48 hours
-Red for > 48 hours
+- Green for < 24 hours
+- Yellow for 24–48 hours
+- Red for > 48 hours
 
 Labels each bar with the region name and exact delivery time
 
